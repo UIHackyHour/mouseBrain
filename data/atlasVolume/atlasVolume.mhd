@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 -160
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 16 16 20
+DimSize = 581 370 278
+ElementType = MET_UCHAR
+ElementDataFile = atlasVolume.raw
